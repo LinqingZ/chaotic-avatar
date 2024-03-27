@@ -6,7 +6,7 @@ In the world of Avatar: The Last Airbender, harmony between the four elements - 
 
 ## The Imbalance:
 
-![Water](pics\katara\katara-waterbender.webp)
+![Water](pics/katara/katara-waterbender.webp)
 ### Water - Frozen in Conflict
 The once tranquil waters have frozen over, trapped in a state of conflict and turmoil. The flow of life has been hindered, and the balance of the element has been disrupted. Zuko has now become a water bender! Please restore balance by making Katara a water bender!
 
@@ -14,7 +14,7 @@ The once tranquil waters have frozen over, trapped in a state of conflict and tu
 ### Earth - Shattered Foundations
 The solid foundations of the earth have been shattered, leaving the land scarred and unstable. The ground trembles with unrest, echoing the imbalance that plagues the element of Earth. Aang has now become an earth bender! Please restore balance by making Toph an earth bender!
 
-![Fire](pics\zuko\zuko-firebender.webp)
+![Fire](pics/zuko/zuko-firebender.webp)
 ### Fire - Raging Inferno
 The flames of fire rage uncontrollably, consuming everything in their path. The once warm and comforting element has turned into a destructive force, threatening to engulf the world in chaos. Katara has become a fire bender! Please restore balance by making Zuko a fire bender!
 
